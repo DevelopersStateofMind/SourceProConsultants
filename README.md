@@ -6,5 +6,5 @@ Business consulting services including business plan creation, cash flow analysi
 Marketing division includes strategic and tactical marketing plan creation and implementation, strategy and operations consulting, market research, branding, guerrilla marketing, advertising, radio, television, print, media relations, public relations. Landing Page funnels, social media, viral marketing, logo design, and investor relations, among others. 
 
 Technology Strategy Division which includes a full technology plan,  strategy execution, Ecommerce Setup, Web design, development , maintenance, Search Engine Optimization and much more. 
-![image](https://user-images.githubusercontent.com/77896822/136678731-975b54e2-2c0c-4a89-9f18-d52ff33a5942.png)
+
 
