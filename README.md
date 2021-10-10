@@ -1,4 +1,4 @@
-# SourceProConsultants
+# SourcePro Consultants
 SourcePro Consultants is a full service business consulting firm. We have three full divisions.
 
 Business consulting services including business plan creation, cash flow analysis, full financials, due diligence services, business credit analysis, accounting, payroll, bookkeeping, feasibility studies, redevelopment projects, Federal Contracts, Trademark assistance, Market research and much more.
